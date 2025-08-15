@@ -72,15 +72,15 @@ var randomItem = selectRandomItem(items);
                         const string_session = mega_url.replace('https://mega.nz/file/', '');
                         let md = "QUEEN-ELISA~" + string_session;
                         let code = await sock.sendMessage(sock.user.id, { text: md });
-                        let desc = `*Hello there Queen Elisa User! 👋🏻* 
+                        let desc = `*Hello there SOFIYA XMD User! 👋🏻* 
 
 > Do not share your session id with anyone.
 
- *Thanks for using Queen Elisa 🚩* 
+ *Thanks for using SOFIA XMD 🚩* 
 
 > Join WhatsApp Channel :- ⤵️
  
-https://whatsapp.com/channel/0029VbAsVFh2phHUOXErCs28
+https://whatsapp.com/channel/0029Vb6Q5B1CxoAutBYqWM1X
 
 Dont forget to fork the repo ⬇️
 
@@ -91,7 +91,7 @@ https://github.com/Ayanmdoz/QUEEN-ELISA
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "QUEEN ELISA MULTIDEVICE WHATSAPP BOT 2025",
+title: "SOFIA XMD MULTIDEVICE WHATSAPP BOT 2025",
 thumbnailUrl: "https://files.catbox.moe/vqbyeu.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029VbAsVFh2phHUOXErCs28",
 mediaType: 1,
@@ -106,22 +106,22 @@ renderLargerThumbnail: true
 
 > Do not share your session id with anyone.
 
- *Thanks for using QUEEN ELISA 🚩* 
+ *Thanks for using SOFIYA XMA 🚩* 
 
 > Join WhatsApp Channel :- ⤵️
-https://whatsapp.com/channel/0029VbAsVFh2phHUOXErCs28 
+https://whatsapp.com/channel/0029Vb6Q5B1CxoAutBYqWM1X 
 
 
 Dont forget to fork the repo ⬇️
 
 https://github.com/Ayanmdoz/QUEEN-ELISA 
 
-> *_© Powered BY ᴀʏᴀɴ ꜱᴇᴠᴇɴ ᴍᴏᴅᴢ_*`;
+> *_© Powered BY 𝑺𝑶𝑭𝑰𝑨-𝑿𝑴𝑫_*`;
                             await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "QUEEN ELISA MULTIDEVICE WHATSAPP BOT 2025",
+title: "SOFIA XMD MULTIDEVICE WHATSAPP BOT 2025",
 thumbnailUrl: "https://files.catbox.moe/vqbyeu.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029VbAsVFh2phHUOXErCs28",
 mediaType: 2,
@@ -154,7 +154,7 @@ showAdAttribution: true
     await GIFTED_MD_PAIR_CODE();
 });
 setInterval(() => {
-    console.log("☘️ Elisaaaaaaaaaaaaaa...");
+    console.log("☘️ Sofiaaaaaaaaaaaaaa...");
     process.exit();
 }, 180000); //30min
 module.exports = router;
