@@ -81,22 +81,22 @@ var randomItem = selectRandomItem(items);
 
 > Do not share your session id with anyone.
 
- *Thanks for using Queen Elisa 🚩* 
+ *Thanks for using SOFIA XMD 🚩* 
 
 > Join WhatsApp Channel :- ⤵️
  
-https://whatsapp.com/channel/0029VbAsVFh2phHUOXErCs28
+https://whatsapp.com/channel/0029Vb6Q5B1CxoAutBYqWM1X
 
 Dont forget to fork the repo ⬇️
 
 https://github.com/ayanmdoz/QUEEN-ELISA
 
-> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴀʏᴀɴ ꜱᴇᴠᴇɴ ᴍᴏᴅᴢ™*`; 
+> *© ᴘᴏᴡᴇʀ ʙʏ sᴏғɪᴀ xᴍᴅ ᴏғᴄ™*`; 
                         await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "QUEEN ELISA MULTIDEVICE WHATSAPP BOT",
+title: "SOFIA MULTIDEVICE WHATSAPP BOT",
 thumbnailUrl: "https://files.catbox.moe/vqbyeu.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029VbAsVFh2phHUOXErCs28",
 mediaType: 1,
@@ -112,7 +112,7 @@ renderLargerThumbnail: true
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "QUEEN ELISA MULTIDEVICE WHATSAPP BOT",
+title: "SOFIA MULTIDEVICE WHATSAPP BOT",
 thumbnailUrl: "https://files.catbox.moe/vqbyeu.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029VbAsVFh2phHUOXErCs28",
 mediaType: 2,
