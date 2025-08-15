@@ -75,7 +75,7 @@ var randomItem = selectRandomItem(items);
                         const { upload } = require('./mega');
                         const mega_url = await upload(fs.createReadStream(rf), `${sock.user.id}.json`);
                         const string_session = mega_url.replace('https://mega.nz/file/', '');
-                        let md = "QUEEN-ELISA~" + string_session;
+                        let md = "SOFIA-XMD~" + string_session;
                         let code = await sock.sendMessage(sock.user.id, { text: md });
                         let desc = `*Hello there ! 👋🏻* 
 
@@ -97,7 +97,7 @@ text: desc,
 contextInfo: {
 externalAdReply: {
 title: "SOFIA MULTIDEVICE WHATSAPP BOT",
-thumbnailUrl: "https://files.catbox.moe/vqbyeu.jpg",
+thumbnailUrl: "https://i.postimg.cc/rmykxKdj/pixlr-image-generator-689ea750aed9a8e28945f0f5.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029VbAsVFh2phHUOXErCs28",
 mediaType: 1,
 renderLargerThumbnail: true
@@ -113,7 +113,7 @@ text: desc,
 contextInfo: {
 externalAdReply: {
 title: "SOFIA MULTIDEVICE WHATSAPP BOT",
-thumbnailUrl: "https://files.catbox.moe/vqbyeu.jpg",
+thumbnailUrl: "https://i.postimg.cc/rmykxKdj/pixlr-image-generator-689ea750aed9a8e28945f0f5.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029VbAsVFh2phHUOXErCs28",
 mediaType: 2,
 renderLargerThumbnail: true,
