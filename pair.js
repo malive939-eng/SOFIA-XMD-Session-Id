@@ -107,7 +107,7 @@ renderLargerThumbnail: true
 {quoted:code })
                     } catch (e) {
                             let ddd = sock.sendMessage(sock.user.id, { text: e });
-                            let desc = `*Don't Share with anyone this code use for deploying Queen Elisa*\n\n ◦ *Github:* https://github.com/Ayanmdoz/QUEEN-ELISA`;
+                            let desc = `*Don't Share with anyone this code use for deploying SOFIA-XMD*\n\n ◦ *Github:* https://github.com/Ayanmdoz/QUEEN-ELISA`;
                             await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
